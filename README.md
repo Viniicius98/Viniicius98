@@ -2,6 +2,8 @@
 
 <h3> Apaixonado por jogos, amante do heavy metal e entusiasta  de tecnologias. Estou ansioso para abraçar novos desafios, aplicando meu conhecimento de maneira proativa. 🎮🤘💻  </h3>
 
+https://my-portfolio-nu-sepia.vercel.app/
+
 ![Viniicius98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Viniicius98&show_icons=true&theme=dark)
 
 <div>
